@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.80.83.234:9000/</sonar.host.url>
+		<sonar.host.url>http://54.145.14.178:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Searise Technologies Releases Nexus Repository</name>
-	      <url>http://44.212.3.85:8081/repository/Searise-Release/</url>
+	      <url>http://54.159.129.77:8081/repository/Searise-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.212.3.85:8081/repository/Searise-snapshot/</url>
+	      <url>http://54.159.129.77:8081/repository/Searise-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
